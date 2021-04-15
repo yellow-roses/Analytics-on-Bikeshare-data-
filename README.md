@@ -1,4 +1,4 @@
-# Analytics-on-Bikeshare-data
+# ![GA](https://user-images.githubusercontent.com/82559837/114829968-09bcd380-9e0f-11eb-9980-e5060b9da0bb.jpg) Analytics-on-Bikeshare-data
   This project demostrates my SQL and Excel skills, and the analysis and visualizations are shown here. The datasets were too big to analyse in Excel alone and so I used SQL to do much of the heavy lifting.
 
 # Background
