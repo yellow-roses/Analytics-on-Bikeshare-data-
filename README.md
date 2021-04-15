@@ -4,12 +4,19 @@
 # Background
 
 I looked at bike sharing organizations. (For a background on bicycle sharing systems: https://en.wikipedia.org/wiki/Bicycle-sharing_system ).  There are six bike sharing organisations (in different countries) that I collected the data for.
+
 ●	Baywheels (San Francisco Bay area)
+
 ●	Blue bikes (Boston)
+
 ●	Capital Bike share (Washington DC, Arlington and Alexandria)
+
 ●	Citibike (New York)
+
 ●	Divvy Bikes (Chicago)
+
 ●	Santander (London)
+
 
 # Upon exploratory analysis of these datasets, I decided to perform analytics Bluebikes and Divvybikes data.
 
