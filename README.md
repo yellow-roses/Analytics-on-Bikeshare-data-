@@ -11,7 +11,13 @@ I looked at bike sharing organizations. (For a background on bicycle sharing sys
 ●	Divvy Bikes (Chicago)
 ●	Santander (London)
 
-From exploratory analysis of these datasets, I decided to perform analytics Bluebikes and Divvybikes data, and I have compared the two organizations for insights where possible.
+# Upon exploratory analysis of these datasets, I decided to perform analytics Bluebikes and Divvybikes data.
 
-● A process reproducibility document (Word document) shows the SQL queries I ran, what I did with them and (if it makes sense) some sample rows of output. Data dictionary and data handling procedures are indicated in the spreadsheet itself. 
-●	A video of me presenting the key points from this analysis is included here. 
+I have compared the data of these two organizations for insights where possible.
+
+Included here are: 
+  ● A process reproducibility document (Word document) shows the SQL queries I ran, what I did with them and (if it makes sense) some sample rows of output. 
+  ● Data dictionary and data handling procedures are indicated in the spreadsheet itself. 
+  ●	A video of me presenting the key points from this analysis is included here. 
+
+Sri
