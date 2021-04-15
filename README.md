@@ -23,8 +23,12 @@ I looked at bike sharing organizations. (For a background on bicycle sharing sys
 I have compared the data of these two organizations for insights where possible.
 
 Included here are: 
+
   ● A process reproducibility document (Word document) shows the SQL queries I ran, what I did with them and (if it makes sense) some sample rows of output. 
+  
   ● Data dictionary and data handling procedures are indicated in the spreadsheet itself. 
+  
   ●	A video of me presenting the key points from this analysis is included here. 
+  
 
 Sri
